@@ -1,0 +1,98 @@
+commit b969cf06f02ecd2b414ca5d4757e38d095696d54
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Mon May 13 08:02:25 2024 -0500
+
+    Agregando 2 parrafos
+
+commit d1e495510c557f99d1f23f1f19d1fe9632b7523a
+Merge: 9800653 9bd08c1
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Wed May 8 09:02:51 2024 -0500
+
+    Resolviendo conflicto: Agregando estaciones del año con fecha de inicio
+
+commit 98006537e828b6008129a6d8128b2fb96f048d4e
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Wed May 8 08:49:12 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 9bd08c185d2b3101a927cd64ebe4c7c17629d1ea
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Wed May 8 08:49:12 2024 -0500
+
+    Agregando estaciones del año
+
+commit 51027c8c1144b4f759567fec999ab0e899c17230
+Merge: 36e9b38 2c12d91
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Wed May 8 08:39:30 2024 -0500
+
+    Resolviendo conflicto ramas main/html en el index.html
+
+commit 2c12d91849fc59e04fd26bbafb633bb629d0aed2
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Wed May 8 08:33:10 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 36e9b38e9cfdd170e74e2814e0e851fa640c0e05
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Wed May 8 08:30:17 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 6bd1d82257f906f07b8f6280ddbf1239a76e2a3c
+Merge: 48ec9b5 ca7d750
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 22:49:41 2024 -0500
+
+    Merge branch 'js'
+
+commit ca7d750a70d247077ee30b0472d7acd77228a625
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 22:43:00 2024 -0500
+
+    Agregando index.js
+
+commit 48ec9b5061990ca0f59d1bb9b86ff28e9cd2fa47
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 22:37:40 2024 -0500
+
+    Agregando style.css
+
+commit f6857a9e12827f340fe0be90154da97a19d5c578
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 21:50:46 2024 -0500
+
+    Creando index.html
+
+commit 45412340e9b95c74429a4cb14102ea5d3ca80d97
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 21:40:42 2024 -0500
+
+    Ignorando archivos .exe
+
+commit bc836622131da18222482261a86f291885e2ed10
+Author: Gian Olórtiga <gocomputersystem@gmail.com>
+Date:   Tue May 7 18:34:25 2024 -0500
+
+    Create LICENSE
+
+commit 7dc87887968b31c3867e04675b379beb9a51c101
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 18:24:28 2024 -0500
+
+    Agregando contenido al README
+
+commit 3b2981a36e0be5de5adeaab4b7400ca17ba8cb64
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 08:50:48 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit beeb169c7ee7fab3a652ddeba516b545db530526
+Author: Gian Olórtiga <prueba@correo.com>
+Date:   Tue May 7 08:46:02 2024 -0500
+
+    Primer commit :)
